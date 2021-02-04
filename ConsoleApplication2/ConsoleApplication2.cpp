@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello World\n";
-	std::cout << "aiueo\n";
+	std::cout << "ローカルで変更した場所\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
